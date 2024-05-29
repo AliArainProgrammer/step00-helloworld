@@ -8,7 +8,7 @@ if (mysavings >= 11000) {
 else {
     console.log("you can not do what you want sorry");
 }
-let mericyclekokiaboloun = "mushi";
+let mericyclekokiaboloun = "maaz";
 if (mericyclekokiaboloun === "maaz") {
     console.log("meri bugati");
 }
